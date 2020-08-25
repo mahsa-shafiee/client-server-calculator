@@ -1,0 +1,9 @@
+2020/06/13 23:50:53-ERROR-client1:command number 6 <invalidOperator 11 48> is invalid command
+2020/06/13 23:51:05-ERROR-client2:command number 7 <invalidOperator 24 1> is invalid command
+2020/06/13 23:52:05-ERROR-client1:command number 12 <invalidOperator 49 46> is invalid command
+2020/06/13 23:54:17-ERROR-client2:command number 23 <invalidOperator 23 44> is invalid command
+2020/06/13 23:54:29-ERROR-client1:command number 24 <invalidOperator 24 49> is invalid command
+2020/07/03 18:41:36-ERROR-client1:command number 4 <invalidOperator 44 45> is invalid command
+2020/07/03 18:42:00-ERROR-client1:command number 6 <invalidOperator 28 24> is invalid command
+2020/07/03 18:42:48-ERROR-client1:command number 10 <invalidOperator 32 49> is invalid command
+2020/07/03 18:43:12-ERROR-client1:command number 12 <invalidOperator 16 4> is invalid command
